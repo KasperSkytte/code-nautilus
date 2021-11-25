@@ -1,11 +1,11 @@
 # code-nautilus
 
-This repo provides a visual studio code extension for Nautilus.
+Adds an "Open in VSCode" item to the right-click menu in the nautilus files browser. YOU WANT THIS!
 
 ## Install Extension
 
 ```
-wget -qO- https://raw.githubusercontent.com/harry-cpp/code-nautilus/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/kasperskytte/code-nautilus/master/install.sh | bash
 ```
 
 ## Uninstall Extension
